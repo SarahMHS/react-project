@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    place-content: end center;
+    gap: 30px;
+    background-color: #041212;
+}
+.greeting{
+
+}

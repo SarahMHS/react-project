@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 350px);
+    place-content: end center;
+    gap: 30px;
+    h4{
+        color: var(--primary);
+        font-weight: 100;
+    }
+}
