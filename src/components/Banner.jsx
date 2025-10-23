@@ -6,12 +6,12 @@ function Banner() {
 
         <div className={`${style.grid} align-center`}>
             <div className={`${style.greeting}`}>
-                <h1>Hello</h1>
-                <h2>I'm Sarah MAMISOA</h2>
-                <p>Front-end developper</p>
+                <h1>SALUT</h1>
+                <h2>Je suis Sarah MAMISOA</h2>
+                <p>Développeuse Front-end </p>
                 <button className="btn btn-primary">
                     <i className="fa-solid fa-cloud-arrow-down m-5">
-                        </i>Download my CV</button>
+                    </i>Télécharger mon CV</button>
             </div>
             <div>
                 <img src={profile} alt="profile" />

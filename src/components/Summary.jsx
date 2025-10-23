@@ -4,8 +4,8 @@ import style from "../assets/styles/summary.module.scss"
 function Summary() {
     return (
         <div className="d-flex flex-column align-center">
-            <p>Biography</p>
-            <h3>Who am I</h3>
+            <p>Biographie</p>
+            <h3>Qui suis-je?</h3>
             <div className={`${style.grid} my-5`}>
               
 
@@ -14,7 +14,7 @@ function Summary() {
                     </div>
 
                     <div>
-                        <h4>About me</h4>
+                        {/* <h4>About me</h4> */}
                         <p>salut salut salut salut salut salut salut salut salut salut salut 
                             salut salut salut salut salut salut salut salut salut salut 
                             salut salut salut salut salut salut salut salut salut salut salut

@@ -1,0 +1,30 @@
+  .skills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+      i{
+        color: var(--primary);
+        transition: font-size 0.5s;
+        font-size: 100px;
+        &:hover{
+        font-size: 80px;
+
+        }
+    }
+  }
+  
+  .skill {
+    border-bottom: 5px solid var(--primary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow-nav);
+    li{
+      padding: 10px;
+    }
+  
+  }
+  .todo {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    gap: 20px;
+  }
