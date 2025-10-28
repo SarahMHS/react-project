@@ -7,7 +7,7 @@ function Skills() {
             <p>Compétenses</p>
             <h3>Qu'est ce que je peux faire pour vous ?</h3>
 
-            <div className={`${style.skills} my-10`}>
+            <div className={`${style.skills} my-20`}>
                 
                     <i className="fa-brands fa-html5" />
                     <i className="fa-brands fa-css3-alt" />
@@ -18,7 +18,7 @@ function Skills() {
 
             </div>
 
-            <div className={`${style.todo} my-10`}>
+            <div className={`${style.todo} my-20`}>
 
                 <div className={`${style.skill} p-10`}>
 

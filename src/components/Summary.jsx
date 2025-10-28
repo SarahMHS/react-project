@@ -6,23 +6,16 @@ function Summary() {
         <div className="d-flex flex-column align-center">
             <p>Biographie</p>
             <h3>Qui suis-je?</h3>
-            <div className={`${style.grid} my-5`}>
-              
+            <div className={`${style.grid} my-20 align-center`}>
+                <div>
+                    <img src={profile} alt="profile" width={250} />
+                </div>
+                <div>
+                    <p>Je suis une développeuse front-end passionnée par la création de sites web modernes, clairs et responsives. 
+                        Avec plus de 4 ans d'expérience, j’aime transformer des idées en interfaces élégantes.
+                         Mon objectif est de concevoir des expériences utilisateur à la fois esthétiques et performantes.</p>
+                </div>
 
-                    <div>
-                        <img src={profile} alt="profile" width={250} />
-                    </div>
-
-                    <div>
-                        {/* <h4>About me</h4> */}
-                        <p>salut salut salut salut salut salut salut salut salut salut salut 
-                            salut salut salut salut salut salut salut salut salut salut 
-                            salut salut salut salut salut salut salut salut salut salut salut
-                            salut salut salut salut salut salut salut salut 
-                            salut salut salut salut salut salut salut salut 
-                            salut salut salut salut salut salut salut salut</p>
-                    </div>
-              
             </div>
         </div>
     )

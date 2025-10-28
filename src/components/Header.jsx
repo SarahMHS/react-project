@@ -5,11 +5,10 @@ function Header() {
         <div className={`${style.header} d-flex flex-row align-center`}>
 
             <i className="fa-solid fa-bars"> </i>
-            <div className="flex-fill">
-                <img src="" alt="logo" />
-            </div>
+            
             <ul>
-                <button className="btn btn-primary"><i className="fa-solid fa-basket-shopping"></i>panier</button>
+                <button className="btn btn-primary"><i className="fa-solid fa-"></i>Français</button>
+                <button className="btn btn-primary"><i className="fa-solid fa-"></i>Anglais</button>
             </ul>
 
 

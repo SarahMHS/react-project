@@ -5,7 +5,7 @@ function Banner() {
     return (
 
         <div className={`${style.grid} align-center`}>
-            <div className={`${style.greeting}`}>
+            <div className={`${style.greeting} m-5`}>
                 <h1>SALUT</h1>
                 <h2>Je suis Sarah MAMISOA</h2>
                 <p>Développeuse Front-end </p>
