@@ -1,4 +1,6 @@
-.button{
+@import "../../assets/styles/mixins";
+
+.button {
     position: fixed;
     width: 50px;
     height: 50px;
@@ -12,4 +14,8 @@
     background-color: var(--primary);
     border-color: var(--primary);
 
+    @include responsive(tablet) {
+        top: 5%;
+        left: 85%;
+    }
 }
