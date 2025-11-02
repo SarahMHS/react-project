@@ -1,3 +1,5 @@
+@import "../../assets/styles/mixins";
+
 body {
     margin: 0;
     font-family: var(--font-family);
@@ -14,13 +16,16 @@ h4 {
     margin: 0;
     color: white;
 }
-h1{
+
+h1 {
     font-size: 78px;
 }
-h2{
+
+h2 {
     font-size: 36px;
 }
-h3{
+
+h3 {
     font-size: 28px;
 }
 
@@ -46,4 +51,19 @@ ul {
 
 img {
     max-width: 100%;
+}
+
+@include responsive(tablet) {
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 12px;
+    }
 }

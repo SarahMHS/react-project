@@ -1,0 +1,10 @@
+@import "../../assets/styles/variables";
+
+@mixin responsive($breakpoint) {
+  @if $breakpoint == mobile {
+    @media (max-width: $bp-mobile) { @content; }
+  }
+  @else if $breakpoint == tablet {
+    @media (max-width: $bp-tablet) { @content; }
+  }
+}

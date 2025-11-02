@@ -2,8 +2,8 @@
 @use "./flex";
 @use "./utils";
 @use "./variables";
-@use "./_debug";
 @use "./theme";
+@use "./mixins";
 
 @media (prefers-color-scheme: light) {
   :root {

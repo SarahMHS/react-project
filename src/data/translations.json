@@ -1,0 +1,56 @@
+{
+  "fr": {
+    "title": "SALUT",
+    "title2": "Je suis",
+    "description": "Développeuse front-end",
+    "button": "Obtenir mon CV",
+    "biotitle": "Biographie",
+    "biotitle2": "Qui suis-je?",
+    "bio": "Je suis une développeuse front-end passionnée par la création de sites web modernes, clairs et responsives.\nAvec plus de 4 ans d'expérience, j'aime transformer des idées en interfaces élégantes.\nMon objectif est de concevoir des expériences utilisateur à la fois esthétiques et performantes.",
+    "skillstitle": "Compétenses",
+    "skillstitle2": "Qu'est ce que je peux faire pour vous ?",
+    "skillsHtml": {
+      "p1": "J’intègre des maquettes en code propre et optimisé avec HTML, CSS.",
+      "p2": "Je crée des sites web modernes et responsives(ordinateur, tablette, mobile).",
+      "p3": "je developpe les animations sur l'interface avec JavaScript."
+    },
+    "skillsWp": {
+      "p1": "Je crée et personnalise des sites avec WordPress.",
+      "p2": "J’installe des thèmes et plugins selon les besoins du projet.",
+      "p3": "J’optimise les pages pour un bon référencement (SEO)."
+    },
+    "skillsReact": {
+      "p1": "Je construis des applications dynamiques avec ReactJs.",
+      "p2": "J’utilise des composants réutilisables pour rendre le code plus efficace.",
+      "p3": "Je mets en forme les pages avec SCSS pour un design professionnel."
+    },
+    "contact": "Comment me rejoindre?"
+  },
+  "en": {
+    "title": "HELLO",
+    "title2": "I am",
+    "description": "front-end developer.",
+    "button": "Download my CV",
+    "biotitle": "Biography",
+    "biotitle2": "Who am I?",
+    "bio": "I am a front-end developer passionate about creating modern, clean, and responsive websites.\nWith over 4 years of experience, I love turning ideas into elegant interfaces.\nMy goal is to design user experiences that are both aesthetic and high-performing",
+    "skillstitle": "Skills",
+    "skillstitle2": "What can I do for you?",
+    "skillsHtml": {
+      "p1": "I integrate mockups using clean and optimized code with HTML and CSS.",
+      "p2": "I create modern and responsive websites (computer, tablet, mobile).",
+      "p3": "I develop the animations on the interface using JavaScript."
+    },
+    "skillsWp": {
+      "p1": "I create and customize websites using WordPress.",
+      "p2": "I install themes and plugins according to the project's needs.",
+      "p3": "I optimize the pages for good search engine optimization (SEO)."
+    },
+    "skillsReact": {
+      "p1": "I build dynamic applications with ReactJS.",
+      "p2": "I use reusable components to make the code more efficient.",
+      "p3": "I format the pages with SCSS for a professional design."
+    },
+    "contact": "How to reach me?"
+  }
+}
