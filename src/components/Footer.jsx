@@ -5,7 +5,7 @@ function Footer() {
 
         <footer className={`${style.footer} d-flex flex-row align-center justify-content-center`}>
 
-            <p>copiright 2025</p>
+            <p>copyright 2025</p>
         </footer>
 
     )
